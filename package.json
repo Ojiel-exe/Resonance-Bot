@@ -1,0 +1,29 @@
+{
+  "name": "resonancebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "ascii-table": "^0.0.9",
+    "canvacord": "^5.2.3",
+    "captcha-canvas": "^3.1.0",
+    "common-tags": "^1.8.2",
+    "discord-buttons": "^4.0.0",
+    "discord-canvas": "^1.4.1",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.18",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.14",
+    "reconlx": "^2.5.1",
+    "welcome": "^0.0.1"
+  }
+}
