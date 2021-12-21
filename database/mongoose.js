@@ -12,7 +12,7 @@ module.exports = {
             connectTimeoutMS: 10000,
             family: 4
         };
-        mongoose.connect('mongodb+srv://Ojiel-exe:sonic3maniaplus@cluster0.4hapk.mongodb.net/Sonic?retryWrites=true&w=majority', dbOptions);
+        mongoose.connect('mongodb+srv://YOUR MONGODB ACC@cluster0.4hapk.mongodb.net/Sonic?retryWrites=true&w=majority', dbOptions);
         mongoose.set('useFindAndModify', false);
         mongoose.Promise = global.Promise;
 
